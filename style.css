@@ -1,0 +1,9 @@
+body{
+	background-color: ghostwhite;
+}
+
+h1, p, li {
+	font-family:Playfair Display;
+	font-size : 25px;
+    color:Bleu De France;
+}
